@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git-test-folder\\chapter3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|E:\\git-test-folder\\chapter3\\chapter3\\ex3-1-plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\ex3-1-plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|E:\\git-test-folder\\chapter3\\chapter3\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex3-1-plus.cpp",
+              "DocumentMoniker": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1-plus.cpp",
+              "RelativeDocumentMoniker": "chapter3\\ex3-1-plus.cpp",
+              "ToolTip": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1-plus.cpp",
+              "RelativeToolTip": "chapter3\\ex3-1-plus.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T05:31:31.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex3-1.cpp",
+              "DocumentMoniker": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1.cpp",
+              "RelativeDocumentMoniker": "chapter3\\ex3-1.cpp",
+              "ToolTip": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1.cpp",
+              "RelativeToolTip": "chapter3\\ex3-1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T05:27:10.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
