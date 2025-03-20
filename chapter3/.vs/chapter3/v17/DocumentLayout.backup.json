@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\git-test-folder\\chapter3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|E:\\git-test-folder\\chapter3\\chapter3\\ex3-1-plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\ex3-1-plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|E:\\git-test-folder\\chapter3\\chapter3\\ex3-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\ex3-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|E:\\git-test-folder\\chapter3\\chapter3\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|E:\\git-test-folder\\chapter3\\chapter3\\ex3-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\ex3-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|E:\\git-test-folder\\chapter3\\chapter3\\ex3-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFD12E78-2786-466B-8B92-ED58DAE85DFF}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\ex3-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ex3-1-plus.cpp",
-              "DocumentMoniker": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1-plus.cpp",
-              "RelativeDocumentMoniker": "chapter3\\ex3-1-plus.cpp",
-              "ToolTip": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1-plus.cpp",
-              "RelativeToolTip": "chapter3\\ex3-1-plus.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Title": "ex3-6.cpp",
+              "DocumentMoniker": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-6.cpp",
+              "RelativeDocumentMoniker": "chapter3\\ex3-6.cpp",
+              "ToolTip": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-6.cpp",
+              "RelativeToolTip": "chapter3\\ex3-6.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T05:31:31.892Z",
+              "WhenOpened": "2025-03-20T06:38:39.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ex3-1.cpp",
-              "DocumentMoniker": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1.cpp",
-              "RelativeDocumentMoniker": "chapter3\\ex3-1.cpp",
-              "ToolTip": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-1.cpp",
-              "RelativeToolTip": "chapter3\\ex3-1.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Title": "ex3-4.cpp",
+              "DocumentMoniker": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-4.cpp",
+              "RelativeDocumentMoniker": "chapter3\\ex3-4.cpp",
+              "ToolTip": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-4.cpp",
+              "RelativeToolTip": "chapter3\\ex3-4.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T05:27:10.9Z",
+              "WhenOpened": "2025-03-20T06:31:57.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex3-3.cpp",
+              "DocumentMoniker": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-3.cpp",
+              "RelativeDocumentMoniker": "chapter3\\ex3-3.cpp",
+              "ToolTip": "E:\\git-test-folder\\chapter3\\chapter3\\ex3-3.cpp",
+              "RelativeToolTip": "chapter3\\ex3-3.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T06:22:51.324Z",
               "EditorCaption": ""
             }
           ]
