@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "E:\\github-20250327\\chapter4\\chapter4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|E:\\github-20250327\\chapter4\\chapter4\\chapter4\\4-15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\ex4-14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\ex4-13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\ex4-12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\ex4-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7F7F8C16-E923-4C38-A29E-95A42EAA71C2}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\ex4-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +51,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "4-15.cpp",
+              "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\4-15.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-15.cpp",
+              "ToolTip": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\4-15.cpp",
+              "RelativeToolTip": "chapter4\\4-15.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T07:17:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex4-14.cpp",
+              "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-14.cpp",
+              "RelativeDocumentMoniker": "chapter4\\ex4-14.cpp",
+              "ToolTip": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-14.cpp",
+              "RelativeToolTip": "chapter4\\ex4-14.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T07:14:25.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex4-13.cpp",
+              "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-13.cpp",
+              "RelativeDocumentMoniker": "chapter4\\ex4-13.cpp",
+              "ToolTip": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-13.cpp",
+              "RelativeToolTip": "chapter4\\ex4-13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T07:12:26.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex4-12.cpp",
+              "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-12.cpp",
+              "RelativeDocumentMoniker": "chapter4\\ex4-12.cpp",
+              "ToolTip": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-12.cpp",
+              "RelativeToolTip": "chapter4\\ex4-12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T07:08:47.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex4-11.cpp",
+              "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-11.cpp",
+              "RelativeDocumentMoniker": "chapter4\\ex4-11.cpp",
+              "ToolTip": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-11.cpp",
+              "RelativeToolTip": "chapter4\\ex4-11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T07:06:47.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ex4-10.cpp",
               "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-10.cpp",
               "RelativeDocumentMoniker": "chapter4\\ex4-10.cpp",
               "ToolTip": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-10.cpp",
               "RelativeToolTip": "chapter4\\ex4-10.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-27T06:35:23.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ex4-4.cpp",
               "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-4.cpp",
               "RelativeDocumentMoniker": "chapter4\\ex4-4.cpp",
@@ -51,12 +136,11 @@
               "RelativeToolTip": "chapter4\\ex4-4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-27T06:17:12.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T06:17:12.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\main.cpp",
               "RelativeDocumentMoniker": "chapter4\\main.cpp",
@@ -64,12 +148,11 @@
               "RelativeToolTip": "chapter4\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-27T05:49:49.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T05:49:49.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ex4-1.cpp",
               "DocumentMoniker": "E:\\github-20250327\\chapter4\\chapter4\\chapter4\\ex4-1.cpp",
               "RelativeDocumentMoniker": "chapter4\\ex4-1.cpp",
@@ -77,8 +160,7 @@
               "RelativeToolTip": "chapter4\\ex4-1.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-27T05:46:38.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T05:46:38.298Z"
             }
           ]
         }

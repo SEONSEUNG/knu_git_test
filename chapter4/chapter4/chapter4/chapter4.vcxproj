@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="4-15.cpp" />
+    <ClCompile Include="ex4-13.cpp" />
     <ClCompile Include="ex4-1.cpp" />
+    <ClCompile Include="ex4-11.cpp" />
+    <ClCompile Include="ex4-12.cpp" />
+    <ClCompile Include="ex4-14.cpp" />
     <ClCompile Include="ex4-4.cpp" />
     <ClCompile Include="ex4-10.cpp" />
     <ClCompile Include="main.cpp" />
