@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github-20250403\\chapter5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FB40BB-BCB4-4342-B9C4-2A84DCD6F8C9}|chapter5\\chapter5.vcxproj|E:\\github-20250403\\chapter5\\chapter5\\5-22page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FB40BB-BCB4-4342-B9C4-2A84DCD6F8C9}|chapter5\\chapter5.vcxproj|solutionrelative:chapter5\\5-22page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FB40BB-BCB4-4342-B9C4-2A84DCD6F8C9}|chapter5\\chapter5.vcxproj|E:\\github-20250403\\chapter5\\chapter5\\quiz-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FB40BB-BCB4-4342-B9C4-2A84DCD6F8C9}|chapter5\\chapter5.vcxproj|solutionrelative:chapter5\\quiz-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-22page.cpp",
+              "DocumentMoniker": "E:\\github-20250403\\chapter5\\chapter5\\5-22page.cpp",
+              "RelativeDocumentMoniker": "chapter5\\5-22page.cpp",
+              "ToolTip": "E:\\github-20250403\\chapter5\\chapter5\\5-22page.cpp*",
+              "RelativeToolTip": "chapter5\\5-22page.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T06:52:19.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quiz-main.cpp",
+              "DocumentMoniker": "E:\\github-20250403\\chapter5\\chapter5\\quiz-main.cpp",
+              "RelativeDocumentMoniker": "chapter5\\quiz-main.cpp",
+              "ToolTip": "E:\\github-20250403\\chapter5\\chapter5\\quiz-main.cpp",
+              "RelativeToolTip": "chapter5\\quiz-main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T06:52:06.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
